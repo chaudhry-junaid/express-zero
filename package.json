@@ -1,0 +1,21 @@
+{
+  "name": "express-zero",
+  "version": "1.0.0",
+  "description": "An express.js seed project with modular structure and excellent unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "expressjs",
+    "mocha"
+  ],
+  "author": "Chaudhry Junaid Anwar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.1",
+    "mocha": "^2.2.5"
+  }
+}
